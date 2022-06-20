@@ -1,6 +1,6 @@
 # Ajitesh Shree, Roll: 210079
-<b><h1><u>My Conclusions:</u></h1></b><br><br>
-<font size= 3>
+<b><h1><u>My Conclusions:</u></h1></b><br>
+<font size= 4>
 
 There were 1869 customers out of 7044 who left their telecom service. Some of the points I found that could help in lowering this number are :-
 
