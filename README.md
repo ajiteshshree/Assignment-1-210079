@@ -1,5 +1,5 @@
 # Ajitesh Shree, Roll: 210079
-<b><h2><u>My Conclusions:</u></b><br><br>
+<b><h1><u>My Conclusions:</u></h1></b><br><br>
 <font size= 3>
 
 There were 1869 customers out of 7044 who left their telecom service. Some of the points I found that could help in lowering this number are :-
@@ -25,4 +25,4 @@ From these percentage, I can say that services that ease the customer, like thes
 I found that the maximum tenure for any company was 72, and cusotmers who could surpass the period of 0 to 9 tenure stayed with their service providers generally.So, companies need to make sure to apply schemes (as mentioned in the above points), to make the customer stay for atleat a period of 10 tenure.
 <br><br>
 7. The same goes for Monthly Charges. The maximum Monthly Charge paid by a customer in the data was 118.75/-. <br>
-The companies who asked for Monthly Charges in the range of 70/- to 110/- had a risk of high churning than others. Hence, Companies should try to keep themselves away from this range of charge.
+The companies who asked for Monthly Charges in the range of 70/- to 110/- had a risk of high churning than others. Hence, Companies should try to keep themselves away from this range of charge.</font>
