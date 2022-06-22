@@ -1,4 +1,4 @@
-# Ajitesh Shree, Roll: 210079 go to github
+# Ajitesh Shree, Roll: 210079 go to gitub
 <b><h2><u>My Conclusions:</u></b><br><br>
 <font size = 3>
 
